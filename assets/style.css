@@ -1,0 +1,8 @@
+
+  :root {
+    --custom-purple: #8A2BE2; /* definizione del colore personalizzato */
+  }
+  .bg-custom {
+    background-color: var(--custom-purple); /* utilizzo del colore personalizzato */
+  }
+
